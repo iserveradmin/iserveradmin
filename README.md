@@ -52,21 +52,150 @@ I actively contribute to **open-source ecosystems**, mentor engineers, and speak
 
 ---
 
-## Core Skills & Tech Stack
+## My Skill Set
 
+
+---
+
+### 🛠 Open Source Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Platform%20Engineering-0052CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SRE-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Infrastructure-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KEDA-326CE5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kubeflow-1A73E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ---
 
+### Community & Leadership
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2EA44F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Speaker-Community-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mentor-Engineering-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
+### ☁️ Cloud Architecture & Multi-Cloud Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-⁠F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi-Region%20Design-Architecture-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/High%20Availability-Architecture-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Disaster%20Recovery-BC2F2F?style=for-the-badge"/>
+</p>
+
+---
+
+### 🏗 Platform Engineering & Distributed System Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes%20Multi-Cluster-Architecture-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Service%20Mesh-Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Gateway%20Design-Architecture-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Event-Driven%20Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices%20Architecture-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hybrid%20Cloud-Architecture-607D8B?style=for-the-badge"/>
+</p>
+
+---
+
+### 🛠 Infrastructure as Code, CI/CD & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFormation-IaC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-Packaging-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitOps%20Strategy-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌐 Networking, Traffic & Edge Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/VPC%20Architecture-AWS-232F3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Load%20Balancing-L7%20&%20L4-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DNS%20Architecture-Global-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NGINX-Edge%20Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Traefik-Ingress-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"/>
+</p>
+
+---
+
+### 🗄 Data Platforms, Storage & Streaming Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-Primary%20Data-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-Document-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickHouse-Analytics-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MinIO-Object%20Storage-C72E49?style=for-the-badge&logo=min.io&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Observability, Reliability & SRE Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-Visualization-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-Logging-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SRE%20Practices-Reliability-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Capacity%20Planning-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Latency%20Engineering-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🔐 Cyber Security & Zero-Trust Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloud%20Security-Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IAM%20Architecture-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Keycloak-SSO-Identity-326CE5?style=for-the-badge&logo=keycloak&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-Secrets-000000?style=for-the-badge&logo=vault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenVPN-Secure%20Networking-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zero-Trust%20Model-111111?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧠 AI Platforms, Semantic Systems & Data Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Infrastructure-Platform-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Semantic%20Search-Systems-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-Qdrant-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Application%20Observability-AI-0A0A0A?style=for-the-badge"/>
+</p>
+
+---
+
+### ⛓ Blockchain & Web3 Architecture (Exploration & PoC)
+<p align="left">
+  <img src="https://img.shields.io/badge/Blockchain%20Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Smart%20Contracts-Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web3%20Infrastructure-Exploration-2E2E2E?style=for-the-badge"/>
+</p>
+
+
+---
 ## Featured Repositories
 
 | Repository | Description |
@@ -129,24 +258,11 @@ I actively contribute through:
 
 ---
 
-## Inspiration Profiles
-
-Engineers and maintainers whose open-source discipline inspires my work:
-
-- tushargupta1504  
-- c9s  
-- fabpot  
-- weierophinney  
-- springmeyer  
-- arpanSac  
-
----
-
 ## Connect & Collaborate
 
 - 📧 web.rajansharma@gmail.com  
 - 🌐 https://rajansharma.in  
-- 🐦 https://twitter.com/therajansharma  
+- 🐦 https://x.com/therajansharma  
 
 If you are working on **cloud platforms, DevOps tooling, Kubernetes, SRE systems, or AI infrastructure**, I’m always open for technical collaboration and open-source work.
 
