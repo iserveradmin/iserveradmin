@@ -1,7 +1,7 @@
 # Rajan Sharma · Open Source Contributor & Principal Architect (@iserveradmin)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iserveradmin/iserveradmin/main/assets/profile-banner.png" width="100%" alt="Rajan Sharma - Open Source & Cloud Architect Banner"/>
+  <img src="https://raw.githubusercontent.com/iserveradmin/iserveradmin/master/assets/profile-banner.png" width="100%" alt="Rajan Sharma - Open Source & Cloud Architect Banner"/>
 </p>
 
 <p align="center">
