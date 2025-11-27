@@ -81,7 +81,6 @@ I actively contribute to **open-source ecosystems**, mentor engineers, and speak
 ### 🏗 Platform Engineering & Distributed System Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes%20Multi-Cluster-Architecture-1565C0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Service%20Mesh-Architecture-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Gateway%20Design-Architecture-0A0A0A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Event-Driven%20Architecture-000000?style=for-the-badge"/>
